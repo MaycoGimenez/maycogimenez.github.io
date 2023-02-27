@@ -1,0 +1,200 @@
+header {
+  width: 1520px;
+  font-style: italic;
+  height: 200;
+  margin: 0px 0px 0px 0px;
+  background-image: url("fondo 1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+header h1 {
+  margin: 0px 0px 0px 60px;
+  padding: 60px 10px 45px 380px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 6ch;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  position: absolute;
+  margin: -130px 0px 0px 60px;
+  border-radius: 10px;
+  border: outset black ;
+}
+
+#barra {
+  width: 1520px;
+  height: 3px;
+  margin: 0px 0px 0px 0px;
+  background-color: rgb(59, 55, 137);
+}
+
+#datos_personales {
+  width: 416px;
+  float: left;
+  height: 1430px;
+  margin: 0px 0px 10px 0px;
+  padding: 170px 10px 10px 10px;
+  background-image: url("fondo 3.jpg");
+  background-repeat: no-repeat;
+  background-size: 150% 100%;
+  border-bottom-left-radius: 10px;
+  color: aliceblue;
+} 
+
+#datos_personales h1 {
+  font-style: italic;
+}
+
+#espacio1 {
+  height: 40px;
+}
+
+#experiencias {   
+  width: 1064px;
+  float: inline-start;
+  height: 1590px;
+  margin: 0px 0px 1px 0px;
+  padding: 10px 10px 10px 10px;
+  background-image: url("fondo 2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-bottom-right-radius: 10px;
+}
+
+#experiencias h1 {
+  font-style: italic;
+
+}
+
+#experiencias h2 {
+  font-style: italic;
+  margin-top: 50px;
+}
+
+#estudios_secundarios {
+  margin: 5px 0px 0px 250px;
+  display: none;
+}
+
+#boton_mostrar_secundarios {
+  float: inline-end;
+  margin-top: -25px;
+  margin-right: 188px; 
+  background: none;
+}
+
+#boton_mostrar_terciarios {
+  float: inline-end;
+  margin-top: -25px;
+  margin-right: 200px; 
+  background: none;
+}
+
+#estudios_terciarios {
+  margin: 5px 0px 0px 250px;
+  display: none;
+}
+
+#institucion {
+  font-style: italic;
+  font-size: 25px;
+  margin: 5px 0px 0px 250px;
+  width: 600px;
+}
+
+#experiencia_laboral {
+margin-top: 50px;
+}
+
+#periodo1 {
+  float: left;
+  width: 125px;
+  margin: 5px 0px 0px 50px;
+}
+
+#tagle {
+  font-style: italic;
+  font-size: 25px;
+  margin: 83px 0px 0px 250px;
+}
+
+#macwagen {
+  font-style: italic;
+  font-size: 25px;
+  margin: 167px 0px 0px 250px;
+}
+
+#tareas_tagle {
+  margin: 5px 0px 0px 250px;
+  display: none;
+}
+
+#tareas_macwagen {
+  margin: 5px 0px 0px 250px;
+  display: none;
+}
+
+#espaciador {
+  margin: 100px 0px 18px 0px;
+}
+
+/*margin-top: 40px;**/
+
+#periodo2 {
+  float: left;
+  width: 121px;
+  margin: 5px 0px 0px 50px;
+}
+
+/*margin: 100px 0px 0px -150px;**/
+
+#boton_mostrar_tagle {
+  float: inline-end;
+  margin-top: -25px;
+  margin-right: 320px; 
+  background: none;
+}
+
+#boton_mostrar_macwagen {
+  float: inline-end;
+  margin-top: -25px;
+  margin-right: 128px; 
+  background: none;
+}
+
+#contactar {
+  font-style: italic;
+  background: none;
+  color:blue;
+  font-size: larger;
+}
+
+.datos_contactar {
+  display: none;
+} 
+
+#nombre {
+  font-style: italic;
+  margin: 0px 15px 0px 5px;
+}
+
+#telefono {
+  font-style: italic;
+  margin: 0px 15px 0px 5px;
+}
+
+#mail {
+  font-style: italic;
+  margin: 0px 15px 0px 5px;
+}
+
+#enviar {
+  margin: 0px 15px 0px 230px;
+  float: inline-start;
+}
