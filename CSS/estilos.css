@@ -144,15 +144,11 @@ margin-top: 50px;
   margin: 100px 0px 18px 0px;
 }
 
-/*margin-top: 40px;**/
-
 #periodo2 {
   float: left;
   width: 121px;
   margin: 5px 0px 0px 50px;
 }
-
-/*margin: 100px 0px 0px -150px;**/
 
 #boton_mostrar_tagle {
   float: inline-end;
@@ -168,12 +164,11 @@ margin-top: 50px;
   background: none;
 }
 
+/* tuve que sacar el estilo del boton desde pagina externa porque no me reconocia el primer click"
 #contactar {
   font-style: italic;
-  background: none;
   color:blue;
-  font-size: larger;
-}
+}*/
 
 .datos_contactar {
   display: none;
