@@ -1,3 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
 header {
   width: 1520px;
   font-style: italic;
@@ -35,9 +57,8 @@ img {
 }
 
 #datos_personales {
-  width: 416px;
   float: left;
-  height: 1430px;
+  height: 1590px;
   margin: 0px 0px 10px 0px;
   padding: 170px 10px 10px 10px;
   background-image: url("fondo 3.jpg");
@@ -56,8 +77,7 @@ img {
 }
 
 #experiencias {   
-  width: 1064px;
-  float: inline-start;
+  float: left;
   height: 1590px;
   margin: 0px 0px 1px 0px;
   padding: 10px 10px 10px 10px;
@@ -85,14 +105,14 @@ img {
 #boton_mostrar_secundarios {
   float: inline-end;
   margin-top: -25px;
-  margin-right: 188px; 
+  margin-right: 249px; 
   background: none;
 }
 
 #boton_mostrar_terciarios {
   float: inline-end;
   margin-top: -25px;
-  margin-right: 200px; 
+  margin-right: 260px; 
   background: none;
 }
 
@@ -153,14 +173,14 @@ margin-top: 50px;
 #boton_mostrar_tagle {
   float: inline-end;
   margin-top: -25px;
-  margin-right: 320px; 
+  margin-right: 375px; 
   background: none;
 }
 
 #boton_mostrar_macwagen {
   float: inline-end;
   margin-top: -25px;
-  margin-right: 128px; 
+  margin-right: 182px; 
   background: none;
 }
 
